@@ -1,6 +1,7 @@
 Enigma rencana proposal:
 - Bootstrap
   untuk frontend
+- Vue.js
 - Laravel atau Codeigniter
   untuk backend
 - Hosting
