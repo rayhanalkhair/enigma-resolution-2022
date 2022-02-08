@@ -5,3 +5,4 @@ Enigma rencana proposal:
 - Laravel atau Codeigniter
   untuk backend
 - Hosting
+- Finally done!
