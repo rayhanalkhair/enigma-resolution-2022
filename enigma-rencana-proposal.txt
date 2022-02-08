@@ -3,3 +3,4 @@ Enigma rencana proposal:
   untuk frontend
 - Laravel atau Codeigniter
   untuk backend
+- Hosting
