@@ -1,5 +1,4 @@
 Enigma Resolution:
-- Learn CSS
 - Learn Javascript
 - Learn everything about Backend
 - Create a proposal for final project
