@@ -1,0 +1,5 @@
+Enigma rencana proposal:
+- Bootstrap
+  untuk frontend
+- Laravel atau Codeigniter
+  untuk backend
