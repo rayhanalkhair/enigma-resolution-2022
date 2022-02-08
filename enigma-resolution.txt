@@ -1,6 +1,9 @@
 Enigma Resolution:
-- Learn HTML
 - Learn CSS
 - Learn Javascript
 - Learn everything about Backend
+- Create a proposal for final project
+- Final project proposal seminar session
 - Create a broadcast media website for my final project
+- Make a bachelor's thesis based on the final project
+- Finally graduation!
