@@ -1,0 +1,3 @@
+Enigma rencana proposal:
+- Menggunakan framework bootstrap
+- Menggunakan framework laravel
